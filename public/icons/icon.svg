@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#FF6B35"/>
+  <g fill="none" stroke="white" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="140" cy="340" r="70"/>
+    <circle cx="372" cy="340" r="70"/>
+    <path d="M310 180a20 20 0 1 0 0-40 20 20 0 0 0 0 40z" fill="white" stroke="none"/>
+    <path d="M250 340v-60l-60-60 80-60 40 60h60"/>
+  </g>
+  <text x="256" y="460" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="60" font-weight="bold">MTB</text>
+</svg>
